@@ -1,0 +1,11 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "The main aim of developing this application is to explore the working of nodejs, express and mongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uladzimir Bachyla",
+  "license": "ISC"
+}
