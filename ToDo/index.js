@@ -9,13 +9,13 @@ const hbs = exphbs.create({
   extname: 'hbs'
 })
 
-app.engine('handlebarsEngine', hbs.engine)
-app.set('view engine', 'handlebarsEngine')
+app.engine('hbs', hbs.engine)
+app.set('view engine', 'hbs')
 app.set('views', 'views')
 
 async function start() {
   try {
-    await mongoose.connect('', {
+    await mongoose.connect('mongodb+srv://Uladzimir:1q2w3e4r@cluster0-vxfo3.mongodb.net/todos', {
       useNewUrlParser: true,
       useFindAndModify: false
     })
