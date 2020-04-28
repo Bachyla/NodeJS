@@ -11,14 +11,13 @@
   Lorem ipsum temp short thingy
   <br/>
   <br/>
-  <img width="300" height="300" src="https://c7.hotpng.com/preview/477/472/1021/node-js-javascript-react-logo-express-js-javascript-logo.jpg" />
+  <img width="127" height="78" src="hhttps://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" />
 </div>
                             
 ### Local Usage
 ```
 npm install
 node index.js
-
 ```
 
 ## License
