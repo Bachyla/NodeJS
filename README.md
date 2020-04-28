@@ -5,14 +5,6 @@
 </div>
 
 <br/>
-
-## Description
-<div align="center">
-  Lorem ipsum temp short thingy
-  <br/>
-  <br/>
-  <img width="127" height="78" src="hhttps://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" />
-</div>
                             
 ### Local Usage
 ```
